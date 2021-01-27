@@ -2,3 +2,4 @@
 002 - Update no arquivo
 003 - Fetch antes do commit
 004 - Linha adicionada no portal
+005 - Linha para merge
